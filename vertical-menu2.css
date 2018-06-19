@@ -1,0 +1,38 @@
+.vertical-menu {
+    width: 200px;
+    margin-right: 20px;
+    float: left;
+}
+
+.vertical-menu a {
+    background-color: white;
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+}
+
+.vertical-menu a:hover {
+    background-color: aquamarine;
+}
+
+.vertical-menu a.header {
+    background-color: turquoise;
+    color: white;
+}
+
+.vertical-menu a.active {
+    background-color: turquoise;
+    color: black;
+}
+
+/*
+cadetblue
+deepskyblue
+cyan
+aqua
+aquamarine
+turquoise (e variantes)
+*/
+
+.identificador {}
